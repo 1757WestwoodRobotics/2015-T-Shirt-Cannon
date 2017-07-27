@@ -1,0 +1,23 @@
+AButton = 
+BButton = 
+XButton = 
+YButton = 
+RightTrigger = 
+LeftTrigger = 
+RightButton = 
+LeftButton = 
+StartButton = 
+BackButton = 
+RSButton = 
+LSButton = 
+
+#Possible functions:
+#Compressor_Toggle
+#
+#
+#Cannon_Fire
+#Cannon_Load
+#Cannon_Tilt_Up
+#Cannon_Tilt_Down
+#
+#
